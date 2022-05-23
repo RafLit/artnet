@@ -1,0 +1,12 @@
+dataset/*
+!dataset/Train
+!dataset/Test
+dataset/Train/*
+!dataset/Train/data.py
+dataset/Test/*
+!dataset/Test/data.py
+
+*.png
+
+*.csv
+*.npy
